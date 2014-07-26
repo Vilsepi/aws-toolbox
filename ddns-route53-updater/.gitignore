@@ -1,0 +1,3 @@
+env-aws
+*.pyc
+config_secrets.py
